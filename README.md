@@ -1,16 +1,19 @@
-## Hi there 👋
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-<!--
-**AdrianDamascena/AdrianDamascena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Presentation -->
+<p>
+ Olá 👋, meu nome é Adrian! Um apaixonado estudante de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+  - 🔭 Estou em busca de oportunidades de emprego. Meu objetivo é trabalhar com IA e Machine Learning.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 Mais Informações</summary>
+
+  - - 💬Tenho 25 anos, atualmente moro no Brasil. Tenho fluência em inglês e tenho experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. 
+</details>
